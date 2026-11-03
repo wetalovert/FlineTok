@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlineTok</string>
+    <string name="permission_needed">Чтобы показать видео из папок TikTok и MargyT, нужен доступ к медиафайлам.</string>
+    <string name="grant_access">Выдать доступ</string>
+    <string name="no_videos">Видео из папок TikTok и MargyT не найдены</string>
+    <string name="refresh">Обновить</string>
+    <string name="tab_home">Главная</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="tab_general">Общие</string>
+    <string name="tab_likes">Лайки</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Системная</string>
+    <string name="empty_likes">Пока нет лайков</string>
+    <string name="empty_favorites">Пока нет избранного</string>
+    <string name="tab_refresh">Обновить</string>
+    <string name="add_new">Добавить новые видео</string>
+    <string name="volume">Громкость</string>
+    <string name="volume_quiet">Самый тихий</string>
+    <string name="volume_mid">Средний</string>
+    <string name="volume_loud">Самый громкий</string>
+    <string name="volume_custom">Кастомно</string>
+    <string name="hide_seen">Скрывать лайкнутые и избранные</string>
+    <string name="all_hidden">Все видео скрыты настройкой «Скрывать лайкнутые и избранные»</string>
+</resources>
